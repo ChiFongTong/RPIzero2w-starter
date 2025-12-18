@@ -1,4 +1,5 @@
 # Raspberry Pi Zero 2 W 快速上手教學 (Raspberry Pi OS Lite)
+*撰寫人:T90，2025/12/19。*
 
 這份教學將引導你如何在 Raspberry Pi Zero 2 W 上安裝 Raspberry Pi OS Lite (64-bit)，並透過 Windows 進行遠端開發，最後部署一個 ChatGPT CLI 應用程式。
 
